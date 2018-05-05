@@ -1,3 +1,3 @@
 # Pattern-Recognition
 
-Contains the files for the pattern recognition project. 
+Contains files for the pattern recognition project. 
